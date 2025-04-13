@@ -1,4 +1,4 @@
-# <img src="https://placehold.co/600x200?text=SIEMZello+Logo" alt="SIEMZello Logo" width="300"/>  
+# <img src="./logo.png" alt="SIEMZello Logo" width="300"/>  
 > **AI-Powered Threat Detection SIEM System**  
 > *"See Threats Before They Strike."*  
 
